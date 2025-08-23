@@ -6,3 +6,4 @@ Some examples also include basic layouts, forms, tables, and interactive element
 
 - Basic HTML structures
 - Image examples
+- Sample pages
