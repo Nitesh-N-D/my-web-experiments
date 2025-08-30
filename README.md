@@ -1,9 +1,13 @@
-# my-web-experiments
-A collection of small HTML projects created to practice and improve web development skills. Each project demonstrates basic to intermediate HTML concepts such as headings, paragraphs, lists, images, links, tables, forms, and simple layouts.
-A repository of small HTML snippets and mini-projects created for practice and learning purposes.
-These snippets cover fundamental HTML concepts such as headings, paragraphs, lists, links, and images.
-Some examples also include basic layouts, forms, tables, and interactive elements.
+# my-web-experiments  
 
-- Basic HTML structures
-- Image examples
-- Sample pages
+A collection of small web projects created to practice and improve frontend development skills.  
+Each project demonstrates basic to intermediate concepts using **HTML, CSS, and JavaScript**.  
+
+A repository of small web snippets and mini-projects created for practice and learning purposes.  
+These projects cover fundamental **HTML structures, CSS styling, and JavaScript interactivity**.  
+Some examples also include forms, tables, layouts, and dynamic elements.  
+
+- Basic HTML structures  
+- CSS styling and layouts  
+- JavaScript interactivity  
+- Sample pages and mini-projects  
